@@ -5,7 +5,7 @@ This repository contains several educational purpose notebooks in which some of 
 
 ## **Table of Contents**
 - <a href='#requirements'>Requirements</a>
-- <a href='#Purpose'>Purpose</a>
+- <a href='#purpose'>Purpose</a>
 - <a href='#references'>Reference</a>
 <br>
 <br>
@@ -20,7 +20,7 @@ We do not need many things to get started with. As you can see, all the material
   3. **Jupyter Notebook**(*not recommended*):
   The last option that we might have is to open these notebooks with your local installed Jupyter notebook that I personally do not recommed.
 
-## **Purpuse**
+## **Purpose**
 I personally believe that it is not enough to deal with tricky and complicated problems. The final purpose of everyone should be to share what they learned so that others can make significant progress faster and achieve greater things which can even change the world. It does not matter who finally changes the world to a better place. We all are living in the same world, so we will eventually take advantage of the changes.
 
 <br><br>

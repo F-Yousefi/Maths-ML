@@ -1,6 +1,6 @@
 # **The Most Tricky But Essential Mathematical Concepts Which Play Crucial Role In Machine Learning Algorithms.**
 
-This repository contains several educational purpose notebooks in which some of the most tricky but essential mathematical concepts that play crucial roles in machine learning algorithms, including **Taylor Series**, **Constrained** **Optimization**, **Newton-Raphson Method**, and **Gradient Descent**, are explained and programmed.
+This repository contains several educational purpose notebooks in which some of the most tricky but essential mathematical concepts that play crucial roles in machine learning algorithms, including **Taylor Series**, **Constrained** **Optimization**, **Newton-Raphson Method**, and **Gradient Descent**, are explained and programmed.#1
 <br> 
 
 ## **Table of Contents**
